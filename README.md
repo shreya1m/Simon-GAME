@@ -11,8 +11,7 @@ Welcome to The Simon Game - a digital adaptation inspired by the classic Simon g
 - Follow the Pattern: The game will present a sequence of colors. Memorize the pattern.
 - Repeat the Sequence: Click or tap on the colors in the same order as the initial sequence.
 - Advance Levels: Successfully repeating the sequence advances you to the next level, adding more colors and complexity.
-- Game Over: Make a mistake? The game will end, and your score will be displayed.
-- 
+- Game Over: Make a mistake? The game will end!.
 ## Try it Yourself
 To experience The Simon Game, simply open the HTML file in your web browser and start playing!
 
